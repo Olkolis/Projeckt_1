@@ -1,0 +1,63 @@
+@import url(core.css);
+@import url(header.css);
+@import url(menu.css);
+@import url(content.css);
+/* body {
+    margin: 10px;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-attachment: fixed;
+    background-image: url(../img/main-iform.png);
+    background-color: rgb(34, 13, 18); 
+}
+
+.main-inform {
+    display: flex;
+    background-color: rgba(127, 255, 212, 0.3);
+    margin: 1%;
+    width: 98%;
+    height: 90cqh;
+    border-radius: 0.2em;
+    color: bisque;
+}
+.logo {    
+    padding: 0.2em;
+    font-size: 2em;
+    height: 2.7em;
+    width: 2.7em;
+    font-family: 'Lobster', cursive;
+    border: 0.2em outset rgb(154, 211, 179);
+    border-radius: 6em;
+    color:  rgb(168, 250, 204) ;
+}
+
+p {
+    margin: 2cqh;
+    float: left;
+    padding: 1cqh 2cqw;
+}
+
+div {
+    width: 2em;
+    height: 1em;
+}
+
+ul,
+a {
+    padding: 1cqw 1cqh;
+    list-style-type: none;
+    color: bisque;
+}
+
+.bottom {
+    position: sticky;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    width: 98%;
+    height: 7cqh;
+    background-color:rgba(127, 255, 212, 0.3);
+    border-radius: 0.2em;
+} */
